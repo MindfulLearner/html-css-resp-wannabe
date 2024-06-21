@@ -12,3 +12,13 @@ Apriamo le slide e usiamole come guida per il lavoro, aggiungiamo sempre solo un
 Per poter vedere correttamente un sito responsive è necessaria l'aggiunta del tag:
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 :avviso: Fate attenzione: a volte l'inspector di Chrome può dare qualche problema con le mediaquery, controllate il lavoro anche con l'inspector di Firefox :laptop_parrot:
+
+
+## Obiettivo 
+Il progetto consiste nel rendere il sito responsive, in modo che sia navigabile anche da dispositivi mobile e tablet.
+
+## TASK
+- rendere responsive ,
+tablet: dai 768px in giù
+mobile: dai 480px in giù
+- prendere in considerazioni gli screen per avere un idea.

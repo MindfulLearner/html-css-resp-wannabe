@@ -1,0 +1,43 @@
+@media screen and (max-width: 1140px) {
+    .container {
+        width: 100%;
+    }
+}
+
+
+
+@media screen and (max-width: 768px) {
+    .container {
+        width: 100%;
+    }
+}
+
+
+@media screen and (max-width: 480px) {
+    .container {
+        width: 100%;
+    }
+
+    .col {
+        margin-bottom: 40px;
+    }
+
+    .row   {
+        display: block;
+    }
+
+    .lessons .col, .why-us .col, .steps .col {
+        width: 100%;
+    }
+
+    .card  {
+        margin: 0 auto;
+        width: 76%;
+    }
+    
+    .col.col-right{
+        margin: 0 auto;
+        width: 76%;
+    }
+
+}
